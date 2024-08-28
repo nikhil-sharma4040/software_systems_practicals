@@ -1,1 +1,0 @@
-# software_systems_practicals
