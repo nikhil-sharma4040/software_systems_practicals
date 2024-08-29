@@ -1,6 +1,6 @@
 /*
 ================================================
-Author : Rajan Khade
+Author : NIKHIL SHARMA
 
 Description :
 Write a program to find the type of a file.
