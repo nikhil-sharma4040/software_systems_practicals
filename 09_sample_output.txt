@@ -1,8 +1,8 @@
 $ ./a.out ./test_dir_01/test_file_01.txt
 Inode: 2098410
 Hard links count: 4
-Uid: 1000 (rajan)
-Gid: 1000 (rajan)
+Uid: 1000 (nikhil-sharma)
+Gid: 1000 (nikhil-sharma)
 Size: 48 bytes
 Block size: 4096 bytes
 Number of blocks: 8

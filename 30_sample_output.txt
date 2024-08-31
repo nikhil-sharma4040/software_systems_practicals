@@ -7,4 +7,4 @@ Aug 29 14:18:17 ubuntu time_based_daemon[8793]: Daemon started
 
 $ tail -n 2 /var/log/syslog
 Aug 29 14:18:17 ubuntu time_based_daemon[8793]: Daemon started
-Aug 29 14:20:02 ubuntu rajan: time_based_daemon executed "test_script.sh" at: Tuesday 29 August 2024 02:20:02 PM IST
+Aug 29 14:20:02 ubuntu nikhil-sharma: time_based_daemon executed "test_script.sh" at: Tuesday 29 August 2024 02:20:02 PM IST
