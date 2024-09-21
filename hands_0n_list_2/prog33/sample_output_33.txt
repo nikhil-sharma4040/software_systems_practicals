@@ -1,0 +1,3 @@
+
+aditya@laptop:~/SS-Lab/SS-Hands-on-List-2/pg33$ ./33b.out
+Received message: Hello from client
