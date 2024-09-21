@@ -1,0 +1,5 @@
+
+aditya@laptop:~/SS-Lab/SS-Hands-on-List-2/pg14$ ./a.out
+Please enter text to be passed into pipe: 
+hello from the other side
+Data which is being read from stdin : hello from the other side
