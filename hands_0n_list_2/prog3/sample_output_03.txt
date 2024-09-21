@@ -1,0 +1,9 @@
+
+
+aditya@laptop:~/SS-Lab/SS-Hands-on-List-2/pg3$ ./a.out
+Resource limit of CPU Before
+Soft limit = -1, Hard limit = -1
+Resource limit of CPU set sucsessfully
+Resource limit of CPU After
+Soft limit = 10, Hard limit = 200
+
