@@ -1,0 +1,4 @@
+aditya@laptop:~/SS-Lab/SS-Hands-on-List-2/pg10$ ./a.out
+press ctrl+c
+^C
+Interrupt triggered
