@@ -1,0 +1,7 @@
+a) Maximum length of arguments to exec family of functions: 2097152
+b) Maximum simulaenous processes per ID: 60951
+c) Number of clock tick per second: 100
+d) Maximum number of open files: 1024
+e) Maximum size of a page: 4096
+f) Total number of pages in the physical memory: 3919639
+g) Maximum simulaenous processes per ID: 1965103
