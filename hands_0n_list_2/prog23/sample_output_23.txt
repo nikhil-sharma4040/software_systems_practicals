@@ -1,0 +1,4 @@
+
+aditya@laptop:~/SS-Lab/SS-Hands-on-List-2/pg23$ ./a.out
+Max files that can be open = 1024
+Max size of pipe (circular buffer) = 4096
