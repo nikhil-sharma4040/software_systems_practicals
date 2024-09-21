@@ -1,0 +1,6 @@
+
+aditya@laptop:~/SS-Lab/SS-Hands-on-List-2/pg32$ ./a.out
+Shared memory id 163877
+Content of shared memory: Message from Thread 2
+Content of shared memory: Message from Thread 1
+Content of shared memory: Message from Thread 2
