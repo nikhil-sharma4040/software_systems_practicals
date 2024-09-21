@@ -1,0 +1,11 @@
+aditya@laptop:~/SS-Lab/SS-Hands-on-List-2/pg25$ ./a.out
+Access permission: 511
+UID: 1000	 GID: 1000
+Time of last message sent is: 0
+Time of last message received is: 0
+Time of last change in the message queue: 1726481243
+Size of Queue is: 0
+Number of message in the queue is: 0
+Maximum number of bytes allowed is: 16384
+Pid of the msgsnd: 0
+Pid of the msgrcv: 0
