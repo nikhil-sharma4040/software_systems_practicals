@@ -1,0 +1,27 @@
+aditya@laptop:~/SS-Lab/SS-Hands-on-List-2/pg26$ ./a.out
+message queue id : 5
+Let's store message in queue
+Data sent to message queue
+aditya@laptop:~/SS-Lab/SS-Hands-on-List-2/pg26$ ipcs -q
+
+------ Message Queues --------
+key        msqid      owner      perms      used-bytes   messages    
+0x0106164a 0          aditya     777        0            0           
+0x0106041f 1          aditya     777        0            0           
+0x0306041f 2          aditya     777        0            0           
+0x01061a6e 3          aditya     777        0            0           
+0x01061a72 5          aditya     666        112          1           
+
+aditya@laptop:~/SS-Lab/SS-Hands-on-List-2/pg26$ ./a.out
+message queue id : 5
+hello
+Data sent to message queue
+aditya@laptop:~/SS-Lab/SS-Hands-on-List-2/pg26$ ipcs -q
+
+------ Message Queues --------
+key        msqid      owner      perms      used-bytes   messages    
+0x0106164a 0          aditya     777        0            0           
+0x0106041f 1          aditya     777        0            0           
+0x0306041f 2          aditya     777        0            0           
+0x01061a6e 3          aditya     777        0            0           
+0x01061a72 5          aditya     666        224          2      
