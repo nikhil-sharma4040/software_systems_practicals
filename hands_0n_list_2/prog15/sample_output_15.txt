@@ -1,0 +1,11 @@
+aditya@laptop:~/SS-Lab/SS-Hands-on-List-2/pg15$ ./15.out
+I am parent process please enter some data to send to child : 
+hello hello hello
+Parent with PID 14865 sent the data with 17 bytes
+Child with pid 14866 ppid 14865 finished reading 17 bytes of data
+String specified by parent : hello hello hello
+
+
+		(X) fd[0]--------|       |--------fd[0] (A)
+    parent	      	         |-------|	                child
+		(A) fd[1]--------|	 |--------fd[1] (X)
