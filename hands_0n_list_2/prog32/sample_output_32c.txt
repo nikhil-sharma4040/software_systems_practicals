@@ -1,0 +1,3 @@
+aditya@laptop:~/SS-Lab/SS-Hands-on-List-2/pg32$ ./32c.out
+Using resource 1.
+Using resource 2.
