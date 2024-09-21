@@ -1,0 +1,21 @@
+CLIENT
+aditya@laptop:~/SS-Lab/SS-Hands-on-List-2/pg34$ ./34a2.out
+Received message: Hello from the server!
+aditya@laptop:~/SS-Lab/SS-Hands-on-List-2/pg34$ cc 34a2.c -o 34a2.out
+aditya@laptop:~/SS-Lab/SS-Hands-on-List-2/pg34$ ./34a2.out
+Received message: Hello from the server!
+aditya@laptop:~/SS-Lab/SS-Hands-on-List-2/pg34$ ./34a2.out
+Received message: Hello from the server!
+aditya@laptop:~/SS-Lab/SS-Hands-on-List-2/pg34$ ./34a2.out
+Received message: Hello from the server!
+aditya@laptop:~/SS-Lab/SS-Hands-on-List-2/pg34$ ./34a2.out
+Received message: Hello from the server!
+
+SERVER
+aditya@laptop:~/SS-Lab/SS-Hands-on-List-2/pg34$ ./34a1.out
+Received message: Hello from the client
+Received message: Hello from the client
+Received message: Hello from the client
+Received message: Hello from the client
+Received message: Hello from the client
+^C
