@@ -1,4 +1,4 @@
-aditya@laptop:~/SS-Lab/SS-Hands-on-List-2/pg11$ ./a.out
+nikhil-sharma@ubuntu:~/IIITB/software_systems_practicals/hands_0n_list_2/pg11$ ./a.out
 Ignoring ctrl+c
 5 seconds left
 ^X4 seconds left

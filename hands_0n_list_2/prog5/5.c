@@ -46,7 +46,7 @@ int main(){
 
 /* OUTPUT 
 
-aditya@laptop:~/SS-Lab/SS-Hands-on-List-2/pg5$ ./a.out
+nikhil-sharma@ubuntu:~/IIITB/software_systems_practicals/hands_0n_list_2/pg5$ ./a.out
 a) Maximum length of arguments to exec family of functions: 2097152
 b) Maximum simulaenous processes per ID: 60951
 c) Number of clock tick per second: 100

@@ -110,7 +110,7 @@ int main(){
 
 /* OUPUT
 
-aditya@laptop:~/SS-Lab/SS-Hands-on-List-2/pg8$ ./8.out
+nikhil-sharma@ubuntu:~/IIITB/software_systems_practicals/hands_0n_list_2/pg8$ ./8.out
 Trigger the following signals
  1)SIGSEGV
  2)SIGINT
@@ -122,7 +122,7 @@ Trigger the following signals
 1
 Segmentation fault signal triggered
 
-aditya@laptop:~/SS-Lab/SS-Hands-on-List-2/pg8$ ./8.out
+nikhil-sharma@ubuntu:~/IIITB/software_systems_practicals/hands_0n_list_2/pg8$ ./8.out
 Trigger the following signals
  1)SIGSEGV
  2)SIGINT
@@ -136,7 +136,7 @@ type ctrl+c
 ^C
 Recieved interrupt
 
-aditya@laptop:~/SS-Lab/SS-Hands-on-List-2/pg8$ ./8.out
+nikhil-sharma@ubuntu:~/IIITB/software_systems_practicals/hands_0n_list_2/pg8$ ./8.out
 Trigger the following signals
  1)SIGSEGV
  2)SIGINT
@@ -148,7 +148,7 @@ Trigger the following signals
 3
 Recieved floating point error interrupt
 
-aditya@laptop:~/SS-Lab/SS-Hands-on-List-2/pg8$ ./8.out
+nikhil-sharma@ubuntu:~/IIITB/software_systems_practicals/hands_0n_list_2/pg8$ ./8.out
 Trigger the following signals
  1)SIGSEGV
  2)SIGINT
@@ -161,7 +161,7 @@ Trigger the following signals
 Using alarm system call
 Recieved real timer signal
 
-aditya@laptop:~/SS-Lab/SS-Hands-on-List-2/pg8$ ./8.out
+nikhil-sharma@ubuntu:~/IIITB/software_systems_practicals/hands_0n_list_2/pg8$ ./8.out
 Trigger the following signals
  1)SIGSEGV
  2)SIGINT
@@ -174,7 +174,7 @@ Trigger the following signals
 Using set interval timer
 Recieved real timer signal
 
-aditya@laptop:~/SS-Lab/SS-Hands-on-List-2/pg8$ ./8.out
+nikhil-sharma@ubuntu:~/IIITB/software_systems_practicals/hands_0n_list_2/pg8$ ./8.out
 Trigger the following signals
  1)SIGSEGV
  2)SIGINT
@@ -186,7 +186,7 @@ Trigger the following signals
 6
 Recieved virtual time signal
 
-aditya@laptop:~/SS-Lab/SS-Hands-on-List-2/pg8$ ./8.out
+nikhil-sharma@ubuntu:~/IIITB/software_systems_practicals/hands_0n_list_2/pg8$ ./8.out
 Trigger the following signals
  1)SIGSEGV
  2)SIGINT

@@ -37,7 +37,7 @@ int main() {
 
 /* OUTPUT 
 
-aditya@laptop:~/SS-Lab/SS-Hands-on-List-2/pg7$ ./7.out
+nikhil-sharma@ubuntu:~/IIITB/software_systems_practicals/hands_0n_list_2/pg7$ ./7.out
 PID:19063
 This is thread 140355311761088
 This is thread 140355303368384

@@ -2,4 +2,4 @@
 Parent running
 Child process with ppid 39735
 Killed
-aditya@laptop:~/SS-Lab/SS-Hands-on-List-2/pg12$ Child process is orphan now with ppid : 1669
+nikhil-sharma@ubuntu:~/IIITB/software_systems_practicals/hands_0n_list_2/pg12$ Child process is orphan now with ppid : 1669

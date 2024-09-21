@@ -42,7 +42,7 @@ Soft limit: -1
 Hard limit: -1
 
 
-aditya@laptop:~/SS-Lab/SS-Hands-on-List-2/pg2$ ulimit -a
+nikhil-sharma@ubuntu:~/IIITB/software_systems_practicals/hands_0n_list_2/pg2$ ulimit -a
 real-time non-blocking time  (microseconds, -R) unlimited
 core file size              (blocks, -c) 0
 data seg size               (kbytes, -d) unlimited

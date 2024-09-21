@@ -1,20 +1,20 @@
 
-aditya@laptop:~/SS-Lab/SS-Hands-on-List-2/pg30$ ./a.out
+nikhil-sharma@ubuntu:~/IIITB/software_systems_practicals/hands_0n_list_2/pg30$ ./a.out
 shared memory id : 32816
 Enter input : let's go
-aditya@laptop:~/SS-Lab/SS-Hands-on-List-2/pg30$ ipcs -m
+nikhil-sharma@ubuntu:~/IIITB/software_systems_practicals/hands_0n_list_2/pg30$ ipcs -m
 
 ------ Shared Memory Segments --------
 key        shmid      owner      perms      bytes      nattch     status      
-0x00000000 5          aditya     600        524288     2          dest         
-0x00000000 32778      aditya     600        524288     2          dest         
-0x00000000 11         aditya     600        524288     2          dest         
-0x00000000 32780      aditya     600        4194304    2          dest         
-0x00000000 32781      aditya     600        67108864   2          dest         
-0x00000000 32784      aditya     600        524288     2          dest         
-0x00000000 32785      aditya     600        4194304    2          dest         
-0x00000000 32786      aditya     600        33554432   2          dest         
-0x00000000 32807      aditya     600        524288     2          dest         
-0xffffffff 32815      aditya     744        1024       0                       
-0x0106b12f 32816      aditya     744        1024       0                       
-0x00000000 60         aditya     600        524288     2          dest  
+0x00000000 5          nikhil-sharma     600        524288     2          dest         
+0x00000000 32778      nikhil-sharma     600        524288     2          dest         
+0x00000000 11         nikhil-sharma     600        524288     2          dest         
+0x00000000 32780      nikhil-sharma     600        4194304    2          dest         
+0x00000000 32781      nikhil-sharma     600        67108864   2          dest         
+0x00000000 32784      nikhil-sharma     600        524288     2          dest         
+0x00000000 32785      nikhil-sharma     600        4194304    2          dest         
+0x00000000 32786      nikhil-sharma     600        33554432   2          dest         
+0x00000000 32807      nikhil-sharma     600        524288     2          dest         
+0xffffffff 32815      nikhil-sharma     744        1024       0                       
+0x0106b12f 32816      nikhil-sharma     744        1024       0                       
+0x00000000 60         nikhil-sharma     600        524288     2          dest  

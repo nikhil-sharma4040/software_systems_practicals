@@ -1,15 +1,15 @@
-aditya@laptop:~/SS-Lab/SS-Hands-on-List-2/pg27$ cc 27a.c -o 27a.out 
-aditya@laptop:~/SS-Lab/SS-Hands-on-List-2/pg27$ sudo nano 27a.c
-aditya@laptop:~/SS-Lab/SS-Hands-on-List-2/pg27$ cc 27a.c -o 27a.out
-aditya@laptop:~/SS-Lab/SS-Hands-on-List-2/pg27$ ./27a.out
+nikhil-sharma@ubuntu:~/IIITB/software_systems_practicals/hands_0n_list_2/pg27$ cc 27a.c -o 27a.out 
+nikhil-sharma@ubuntu:~/IIITB/software_systems_practicals/hands_0n_list_2/pg27$ sudo nano 27a.c
+nikhil-sharma@ubuntu:~/IIITB/software_systems_practicals/hands_0n_list_2/pg27$ cc 27a.c -o 27a.out
+nikhil-sharma@ubuntu:~/IIITB/software_systems_practicals/hands_0n_list_2/pg27$ ./27a.out
 Enter a message
 hello
 Message recieved is hello
 
 WITH COMMENT
 
-aditya@laptop:~/SS-Lab/SS-Hands-on-List-2/pg27$ sudo nano 27a.c
-aditya@laptop:~/SS-Lab/SS-Hands-on-List-2/pg27$ cc 27a.c -o 27a.out
-aditya@laptop:~/SS-Lab/SS-Hands-on-List-2/pg27$ ./27a.out
+nikhil-sharma@ubuntu:~/IIITB/software_systems_practicals/hands_0n_list_2/pg27$ sudo nano 27a.c
+nikhil-sharma@ubuntu:~/IIITB/software_systems_practicals/hands_0n_list_2/pg27$ cc 27a.c -o 27a.out
+nikhil-sharma@ubuntu:~/IIITB/software_systems_practicals/hands_0n_list_2/pg27$ ./27a.out
 Enter a message
 hello

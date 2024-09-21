@@ -1,6 +1,6 @@
 
 
-aditya@laptop:~/SS-Lab/SS-Hands-on-List-2/pg3$ ./a.out
+nikhil-sharma@ubuntu:~/IIITB/software_systems_practicals/hands_0n_list_2/pg3$ ./a.out
 Resource limit of CPU Before
 Soft limit = -1, Hard limit = -1
 Resource limit of CPU set sucsessfully

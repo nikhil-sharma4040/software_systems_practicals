@@ -1,4 +1,4 @@
-aditya@laptop:~/SS-Lab/SS-Hands-on-List-2/pg25$ ./a.out
+nikhil-sharma@ubuntu:~/IIITB/software_systems_practicals/hands_0n_list_2/pg25$ ./a.out
 Access permission: 511
 UID: 1000	 GID: 1000
 Time of last message sent is: 0

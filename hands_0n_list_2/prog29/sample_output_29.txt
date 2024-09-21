@@ -3,9 +3,9 @@ Message queue id = 5
 
 ------ Message Queues --------
 key        msqid      owner      perms      used-bytes   messages    
-0x0106164a 0          aditya     777        0            0           
-0x01061a7a 1          aditya     666        0            0           
-0x02061a7a 2          aditya     766        0            0           
-0x010616bd 5          aditya     666        0            0           
+0x0106164a 0          nikhil-sharma     777        0            0           
+0x01061a7a 1          nikhil-sharma     666        0            0           
+0x02061a7a 2          nikhil-sharma     766        0            0           
+0x010616bd 5          nikhil-sharma     666        0            0           
 
 Message queue removed.

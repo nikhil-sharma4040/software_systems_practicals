@@ -1,3 +1,3 @@
 
-aditya@laptop:~/SS-Lab/SS-Hands-on-List-2/pg10$ ./a.out
+nikhil-sharma@ubuntu:~/IIITB/software_systems_practicals/hands_0n_list_2/pg10$ ./a.out
 Floating Point error triggered

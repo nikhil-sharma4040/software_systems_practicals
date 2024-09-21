@@ -1,6 +1,6 @@
-aditya@laptop:~/SS-Lab/SS-Hands-on-List-2/pg22$ ./22.out
+nikhil-sharma@ubuntu:~/IIITB/software_systems_practicals/hands_0n_list_2/pg22$ ./22.out
 fifo: File exists
 Input obtained within 10 seconds
-aditya@laptop:~/SS-Lab/SS-Hands-on-List-2/pg22$ ./22.out
+nikhil-sharma@ubuntu:~/IIITB/software_systems_practicals/hands_0n_list_2/pg22$ ./22.out
 fifo: File exists
 No input

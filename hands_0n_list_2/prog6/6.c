@@ -45,13 +45,13 @@ int main() {
 
 /* OUTPUT 
 
-aditya@laptop:~/SS-Lab/SS-Hands-on-List-2/pg6$./a.out
+nikhil-sharma@ubuntu:~/IIITB/software_systems_practicals/hands_0n_list_2/pg6$./a.out
 PID:18639
 This is thread 1
 This is thread 2
 This is thread 3
 
-aditya@laptop:~/SS-Lab/SS-Hands-on-List-2/pg6$ ps -L 18639
+nikhil-sharma@ubuntu:~/IIITB/software_systems_practicals/hands_0n_list_2/pg6$ ps -L 18639
     PID     LWP TTY      STAT   TIME COMMAND
   18639   18639 pts/2    Sl+    0:00 ./a.out
   18639   18640 pts/2    Sl+    0:00 ./a.out

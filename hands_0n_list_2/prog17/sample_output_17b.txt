@@ -1,5 +1,5 @@
 
-aditya@laptop:~/SS-Lab/SS-Hands-on-List-2/pg17$ ./17b.out
+nikhil-sharma@ubuntu:~/IIITB/software_systems_practicals/hands_0n_list_2/pg17$ ./17b.out
       5      38     221
 
 				(X) fd[0]--------|       |-------- ~stdin~ --> fd[0] -->wc (A)

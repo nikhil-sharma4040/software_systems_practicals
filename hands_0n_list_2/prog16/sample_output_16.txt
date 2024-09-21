@@ -1,4 +1,4 @@
-aditya@laptop:~/SS-Lab/SS-Hands-on-List-2/pg16$ ./a.out
+nikhil-sharma@ubuntu:~/IIITB/software_systems_practicals/hands_0n_list_2/pg16$ ./a.out
 Parent with pid 15477 reads :: Hello from the child side
 
 Child with pid 15478 and parent pid 15477 reads :: Hello from the parent side

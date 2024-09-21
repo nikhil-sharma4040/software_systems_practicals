@@ -1,4 +1,4 @@
-aditya@laptop:~/SS-Lab/SS-Hands-on-List-2/pg15$ ./15.out
+nikhil-sharma@ubuntu:~/IIITB/software_systems_practicals/hands_0n_list_2/pg15$ ./15.out
 I am parent process please enter some data to send to child : 
 hello hello hello
 Parent with PID 14865 sent the data with 17 bytes

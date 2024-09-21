@@ -33,7 +33,7 @@ int main(){
 
 /* OUTPUT
 
-aditya@laptop:~/SS-Lab/SS-Hands-on-List-2/pg9$ ./a.out
+nikhil-sharma@ubuntu:~/IIITB/software_systems_practicals/hands_0n_list_2/pg9$ ./a.out
 Ignoring ctrl+c
 5 seconds left
 4 seconds left

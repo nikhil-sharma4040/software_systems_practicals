@@ -28,7 +28,7 @@ int main(){
 
 /* OUTPUT 
 
-aditya@laptop:~/SS-Lab/SS-Hands-on-List-2/pg4$ ./a.out
+nikhil-sharma@ubuntu:~/IIITB/software_systems_practicals/hands_0n_list_2/pg4$ ./a.out
 Time taken to execute 100 getppid() system call 68448
 
 */

@@ -1,4 +1,4 @@
-aditya@laptop:~/SS-Lab/SS-Hands-on-List-2/pg30$ ./a.out
+nikhil-sharma@ubuntu:~/IIITB/software_systems_practicals/hands_0n_list_2/pg30$ ./a.out
 shared memory id : 32816
 Enter input : goodbye
 Segmentation fault (core dumped)
