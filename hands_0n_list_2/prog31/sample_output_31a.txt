@@ -1,0 +1,3 @@
+
+aditya@laptop:~/SS-Lab/SS-Hands-on-List-2/pg31$ ./31a.out
+Binary semaphore created and initialized.
