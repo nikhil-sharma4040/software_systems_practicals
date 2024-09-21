@@ -1,0 +1,8 @@
+
+aditya@laptop:~/SS-Lab/SS-Hands-on-List-2/pg18$ ./18.out
+aditya@laptop:~/SS-Lab/SS-Hands-on-List-2/pg18$       0       0       0
+
+
+		     (X) fd1[0]--------|       |--------fd1[0] (A)  -->grep--> (A) fd2[1]-------|	     |------fd2[0] (A) -->-wc
+    parent       		       |-------|					        |------------|
+	   ls-l -->  (A) fd1[1]--------|       |--------fd1[1] (X)	       (X) fd2[0]-------|	     |------fd2[1] (X)  
