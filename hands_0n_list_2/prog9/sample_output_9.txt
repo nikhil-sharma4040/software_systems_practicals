@@ -1,0 +1,9 @@
+aditya@laptop:~/SS-Lab/SS-Hands-on-List-2/pg9$ ./a.out
+Ignoring ctrl+c
+5 seconds left
+4 seconds left
+^C3 seconds left
+2 seconds left
+^C1 seconds left
+^CDefault action triggered
+^C
