@@ -1,0 +1,11 @@
+aditya@laptop:~/SS-Lab/SS-Hands-on-List-2/pg28$ ./28.out
+The current permission is: 777
+The permission changed to 766
+
+aditya@laptop:~/SS-Lab/SS-Hands-on-List-2/pg28$ ipcs -q
+
+------ Message Queues --------
+key        msqid      owner      perms      used-bytes   messages    
+0x0106164a 0          aditya     777        0            0           
+0x01061a7a 1          aditya     666        0            0           
+0x02061a7a 2          aditya     766        0            0    
