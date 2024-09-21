@@ -1,0 +1,13 @@
+aditya@laptop:~/SS-Lab/SS-Hands-on-List-2/pg32$ ./32d.out
+Binary semaphore created and initialized with sem id 3
+
+------ Semaphore Arrays --------
+key        semid      owner      perms      nsems     
+0x010616bb 0          aditya     777        1         
+0x0106b144 3          aditya     777        1         
+
+Semaphore removed successfully
+
+------ Semaphore Arrays --------
+key        semid      owner      perms      nsems     
+0x010616bb 0          aditya     777        1   
