@@ -1,0 +1,14 @@
+TERMINAL -1
+
+aditya@laptop:~/SS-Lab/SS-Hands-on-List-2/pg21$ ./21a.out
+mkfifo: File exists
+Enter the text to be read
+hello 
+The text from program 2 to program 1 is : goodbye
+
+TERMINAL -2
+
+aditya@laptop:~/SS-Lab/SS-Hands-on-List-2/pg21$ ./21b.out
+Enter the text to send
+goodbye
+The text from program 1 to program 2 is : hello
