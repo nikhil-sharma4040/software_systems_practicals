@@ -1,0 +1,1 @@
+Time taken to execute 100 getppid() system call 44916.363636 ns
