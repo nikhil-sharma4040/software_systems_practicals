@@ -1,0 +1,3 @@
+
+aditya@laptop:~/SS-Lab/SS-Hands-on-List-2/pg10$ ./a.out
+Segmentation fault triggered
