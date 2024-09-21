@@ -1,0 +1,89 @@
+
+
+aditya@laptop:~/SS-Lab/SS-Hands-on-List-2/pg8$ ./8.out
+Trigger the following signals
+ 1)SIGSEGV
+ 2)SIGINT
+ 3)SIGFPE
+ 4)SIGALRM(alarm)
+ 5)SIGALRM(setitimer)
+ 6)SIGVTALRM
+ 7)SIGPROF
+1
+Segmentation fault signal triggered
+
+aditya@laptop:~/SS-Lab/SS-Hands-on-List-2/pg8$ ./8.out
+Trigger the following signals
+ 1)SIGSEGV
+ 2)SIGINT
+ 3)SIGFPE
+ 4)SIGALRM(alarm)
+ 5)SIGALRM(setitimer)
+ 6)SIGVTALRM
+ 7)SIGPROF
+2
+type ctrl+c
+^C
+Recieved interrupt
+
+aditya@laptop:~/SS-Lab/SS-Hands-on-List-2/pg8$ ./8.out
+Trigger the following signals
+ 1)SIGSEGV
+ 2)SIGINT
+ 3)SIGFPE
+ 4)SIGALRM(alarm)
+ 5)SIGALRM(setitimer)
+ 6)SIGVTALRM
+ 7)SIGPROF
+3
+Recieved floating point error interrupt
+
+aditya@laptop:~/SS-Lab/SS-Hands-on-List-2/pg8$ ./8.out
+Trigger the following signals
+ 1)SIGSEGV
+ 2)SIGINT
+ 3)SIGFPE
+ 4)SIGALRM(alarm)
+ 5)SIGALRM(setitimer)
+ 6)SIGVTALRM
+ 7)SIGPROF
+4
+Using alarm system call
+Recieved real timer signal
+
+aditya@laptop:~/SS-Lab/SS-Hands-on-List-2/pg8$ ./8.out
+Trigger the following signals
+ 1)SIGSEGV
+ 2)SIGINT
+ 3)SIGFPE
+ 4)SIGALRM(alarm)
+ 5)SIGALRM(setitimer)
+ 6)SIGVTALRM
+ 7)SIGPROF
+5
+Using set interval timer
+Recieved real timer signal
+
+aditya@laptop:~/SS-Lab/SS-Hands-on-List-2/pg8$ ./8.out
+Trigger the following signals
+ 1)SIGSEGV
+ 2)SIGINT
+ 3)SIGFPE
+ 4)SIGALRM(alarm)
+ 5)SIGALRM(setitimer)
+ 6)SIGVTALRM
+ 7)SIGPROF
+6
+Recieved virtual time signal
+
+aditya@laptop:~/SS-Lab/SS-Hands-on-List-2/pg8$ ./8.out
+Trigger the following signals
+ 1)SIGSEGV
+ 2)SIGINT
+ 3)SIGFPE
+ 4)SIGALRM(alarm)
+ 5)SIGALRM(setitimer)
+ 6)SIGVTALRM
+ 7)SIGPROF
+7
+Recieved profiling timer signal
