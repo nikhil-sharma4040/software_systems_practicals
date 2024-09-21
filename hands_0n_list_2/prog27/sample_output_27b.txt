@@ -1,0 +1,10 @@
+
+aditya@laptop:~/SS-Lab/SS-Hands-on-List-2/pg27$ ./27a.out
+Enter a message
+hello
+Message recieved is hello
+
+aditya@laptop:~/SS-Lab/SS-Hands-on-List-2/pg27$ ./27b.out
+Enter a message
+hello
+msgrcv: No message of desired type
