@@ -1,0 +1,13 @@
+Terminal 1:
+aditya@laptop:~/SS-Lab/SS-Hands-on-List-2/pg20$ ./a.out
+Data to be sent from a to b:
+hello from the other side
+
+Terminal 2:
+aditya@laptop:~/SS-Lab/SS-Hands-on-List-2/pg20$ ./a.out
+No of bytes read from a : 26
+hello from the other side
+
+Terminal 1:
+no of bytes read 26
+no of bytes written 26
